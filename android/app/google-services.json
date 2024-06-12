@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295884964691",
+    "project_id": "finance-p-a-y-392rhc",
+    "storage_bucket": "finance-p-a-y-392rhc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295884964691:android:e8bc6cf1808ab1ed9397a6",
+        "android_client_info": {
+          "package_name": "com.mycompany.financepay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxQCpo1Y1auXsGf4vPhrYjOjfLNtdqyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
